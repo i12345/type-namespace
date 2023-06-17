@@ -1,6 +1,6 @@
 {
   "name": "type-namespace",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Metadata to define namespaces for types",
   "types": "dist/types/index.d.ts",
   "main": "dist/index.js",
